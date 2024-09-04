@@ -24,7 +24,7 @@
  "筛选":{
 "xjzy/?ttvip=982296935":[
 {
-"key":"class",
+"key":"cateId",
 "name":"剧情",
 "value":[
 {"n":"中文无码","v":"zhongwenwuma"},
