@@ -20,14 +20,14 @@
 "免嗅":"1",
 "简介":"<h1&&</h1>",
 "分类":"中文综合$xjzy/cn-zhongwenzonghe",
-"分类url":"https://20kknn.vip/-{cateId}-{catePg}.html",
+"分类url":"https://20kknn.vip/{cateId}-{catePg}.html",
  "筛选":{
 "xjzy/cn-zhongwenzonghe":[
 {
 "key":"cateId",
 "name":"中文综合",
 "value":[
-{"n":"中文无码","v":"zhongwenwuma"},
+{"n":"中文无码","v":"xjzy/cn-zhongwenwuma"},
 {"n":"中文盛清","v":"zhongwenjingqing"},
 {"n":"中文护士","v":"zhongwenhushi"},
 {"n":"中文师生","v":"zhongwenshisheng"},
