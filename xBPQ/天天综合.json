@@ -19,10 +19,10 @@
 "主演":"主演：&&</p>",             
 "免嗅":"1",
 "简介":"<h1&&</h1>",
-"分类":"中文综合$zhongwenzonghe",
-"分类url":"https://20kknn.vip/xjzy/cn-{cateId}-{catePg}.html",
+"分类":"中文综合$xjzy/cn-zhongwenzonghe",
+"分类url":"https://20kknn.vip/-{cateId}-{catePg}.html",
  "筛选":{
-"zhongwenzonghe":[
+"xjzy/cn-zhongwenzonghe":[
 {
 "key":"cateId",
 "name":"中文综合",
