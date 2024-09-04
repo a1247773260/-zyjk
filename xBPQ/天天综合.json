@@ -19,7 +19,7 @@
 "主演":"主演：&&</p>",             
 "免嗅":"1",
 "简介":"<h1&&</h1>",
-"分类":"中文资源$xjzy/cn-zhongwenzonghe#超清资源$cq/2k-chaoqingchuanmei",
+"分类":"中文资源$xjzy/cn-zhongwenzonghe#超清资源$cq/2k-chaoqingchuanmei#综合传媒$gccm/91-madouyuanchuang",
 "分类url":"https://20kknn.vip/{cateId}-{catePg}.html",
  "筛选":{
 "xjzy/cn-zhongwenzonghe":[ 
@@ -56,6 +56,21 @@
 {"n":"超清三级","v":"cq/2k-chaoqingsanj"}
 ]
 }
-]
+],
+  "gccm/91-madouyuanchuang":[
+{
+"key":"cateId",
+"name":"综合传媒",
+"value":[
+{"n":"91制片厂","v":"gccm/91-91zhipianchang"},
+{"n":"杏吧原创","v":"gccm/91-xingbayuanchuang"},
+{"n":"溏心Vlgo","v":"gccm/91-tangxinVlgo"},
+{"n":"天美传媒","v":"gccm/91-tianmeichuanmei"},
+{"n":"蜜桃传媒","v":"gccm/91-mitaochuanmei"},
+{"n":"星空传媒","v":"gccm/91-xingkongchuanmei"},
+{"n":"精东影业","v":"gccm/91-jingdongyingye"},
+{"n":"兔子先生","v":"gccm/91-tuzixiansheng"},
+{"n":"大象传媒","v":"gccm/91-daxiangchuanmei"}
+ 
 }
 }
