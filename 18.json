@@ -4,11 +4,11 @@
 "wallpaper":"http://maoyingshi.cc/api.php",
 
 "sites":[
-//{"key":"csp_XBPQ_天天综合","name":"天天综合","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"eXt":"./XBPQ/天天综合.json"},
+//{"key":"csp_xxxBPQ_天天综合","name":"天天综合","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"eXt":"./XBPQ/天天综合.json"},
 
 //{"key":"csp_XBPQ_天天直播","name":"天天直播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"eXt":"./XBPQ/天天直播.json"},
 
-{"key":"csp_XBPQ_色花堂","name":"色花堂","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"eXt":"./XBPQ/色花堂.json"},
+{"key":"csp_xBPQ_色花堂","name":"色花堂","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"eXt":"./XBPQ/色花堂.json"},
 {"key":"csp_XBPQ_黄仓库","name":"黄仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"eXt":"./XBPQ/黄仓库.json"},
 
 {"key":"csp_XBPQ_新香蕉中文字幕","name":"新香蕉中文字幕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
