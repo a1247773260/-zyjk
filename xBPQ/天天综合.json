@@ -57,7 +57,7 @@
 ]
 }
 ],
-  "gccm/91-madouyuanchuang":[
+ "gccm/91-madouyuanchuang":[
 {
 "key":"cateId",
 "name":"综合传媒",
@@ -71,6 +71,8 @@
 {"n":"精东影业","v":"gccm/91-jingdongyingye"},
 {"n":"兔子先生","v":"gccm/91-tuzixiansheng"},
 {"n":"大象传媒","v":"gccm/91-daxiangchuanmei"}
- 
-}
-}
+    ]
+    }
+    ]
+    }
+    }
