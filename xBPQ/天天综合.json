@@ -2,14 +2,14 @@
 "站名":"天天综合",
 "主页url":"https://20kknn.vip/",
 "直接播放":"1",
-//"数组":"<div class=\"item\">&&</div>",
+"数组":"<div class=\"item\">&&</div>",
 "图片": "data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接": "href=\"&&\"",
 "副标题":"<div class=\"duration\">&&</div>",
 "搜索模式": "1",
 "搜索url":"https://20kknn.vip/vod/search/page/{pg}/wd/{wd}/",
-//"搜索数组":"<div class=\"item\">&&</div>",
+"搜索数组":"<div class=\"item\">&&</div>",
 "搜索图片": "data-original=\"&&\"",
 "搜索标题":"title=\"&&\"",
 "搜索链接": "href=\"&&\"",
@@ -22,10 +22,10 @@
 "分类":"中文无码$zhongwenwuma#中文综合$zhongwenzonghe#中文近亲$zhongwenjingqing#中文护士$zhongwenhushi#中文师生$zhongwenshisheng#中文强奸$zhongwenqiangjian#明星淫梦$mingxingyinmeng#美女主播$meinvzhubo#三级综合$sanjizonghe",
 "分类url":"https://20kknn.vip/xjzy/?ttvip=982296935/{cateId}-{catePg}.html",
  "筛选":{
-"xjzy/?ttvip=982296935":[
+"zhongwenwuma":[
 {
 "key":"cateId",
-"name":"中文综合",
+"name":"中文无码",
 "value":[
 {"n":"中文无码","v":"zhongwenwuma"},
 {"n":"中文综合","v":"zhongwenzonghe.html"},
