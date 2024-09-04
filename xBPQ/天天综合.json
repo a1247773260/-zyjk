@@ -24,8 +24,8 @@
  "筛选":{
 "xjzy/cn-zhongwenjingqing":[
 {
-"key":"cateId",
-"name":"中文资源",
+"key":"class",
+"name":"剧情",
 "value":[
 {"n":"中文无码","v":"zhongwenwuma"},
 {"n":"中文综合","v":"zhongwenzonghe.html"},
