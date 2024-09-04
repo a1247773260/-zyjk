@@ -56,7 +56,7 @@
 {"n":"超清三级","v":"cq/2k-chaoqingsanj"}
 ]
 }
-], 
+],
  "gccm/91-madouyuanchuang":[
 {
 "key":"cateId",
@@ -71,6 +71,27 @@
 {"n":"精东影业","v":"gccm/91-jingdongyingye"},
 {"n":"兔子先生","v":"gccm/91-tuzixiansheng"},
 {"n":"大象传媒","v":"gccm/91-daxiangchuanmei"}
+]
+}
+],
+ "99re/kdw-xiaogeshizonghe":[
+{
+"key":"cateId",
+"name":"小格式综合",
+"value":[
+{"n":"欧美","v":"99re/kdw-oumei"},
+{"n":"中文字幕","v":"99re/kdw-zhongwenzimu"},
+{"n":"李宗瑞全集","v":"99re/kdw-lizongruiquanji"},
+{"n":"日本无码","v":"99re/kdw-ribenwuma"},
+{"n":"加勒比","v":"99re/kdw-jialebi"},
+{"n":"日本有码","v":"99re/kdw-ribenyouma"},
+{"n":"一本道","v":"99re/kdw-yibendao"},
+{"n":"高清","v":"99re/kdw-gaoqing"},
+{"n":"潮吹","v":"99re/kdw-chaochui"}
+{"n":"会员认,"v":"99re/kdw-jiujiurehuiyuanrenzhengzuopin"},
+{"n":"制服丝袜","v":"99re/kdw-zhifusiwa"},
+{"n":"口爆颜射","v":"99re/kdw-koubaoyanshe"},
+{"n":"东京热","v":"99re/kdw-dongjingre"}
 ]
 }
 ]
