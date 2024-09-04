@@ -25,8 +25,8 @@
 "筛选":{
 "982296935":[
 {
-"key":"class",
-"name":"中文资源",
+"key":"cateId",
+"name":"中文表",
 "value":[
 {"n":"中文无码","v":"cn-zhongwenwuma"},
 {"n":"中文综合","v":"cn-zhongwenzonghe.html"},
